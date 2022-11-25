@@ -1,1 +1,1 @@
-# HCI-ptoject
+# HCI-project
